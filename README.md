@@ -1,2 +1,2 @@
-# argocd
+# AsciiArtify
 https://argo-cd.readthedocs.io/
