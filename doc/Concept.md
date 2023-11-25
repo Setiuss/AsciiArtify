@@ -95,4 +95,4 @@
 
 ## Демо розгортання Argo CD на k3d
 
-![Image](.doc/argo_install.gif)
+![Image](doc/argo_install.gif)
