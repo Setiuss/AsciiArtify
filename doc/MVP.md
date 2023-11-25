@@ -4,7 +4,7 @@
 ## Demo
 ![Demo](/.data/argo_demo.gif)
 
-** Додаємо новий додаток з репозиторію **
+**Додаємо новий додаток з репозиторію**<br>
 `https://github.com/den-vasyliev/go-demo-app`
 
 - задаємо ім'я demo
