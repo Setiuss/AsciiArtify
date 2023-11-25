@@ -5,4 +5,4 @@ https://argo-cd.readthedocs.io/
 
 ## [Розгортання Argo CD на кластері k3d](/doc/POC.md)
 
-## [Додавання новорго додатку у Argo CD](/doc/MVP.md)
+## [Створення нового додатку в розгорнутому Argo CD на k3d](/doc/MVP.md)

@@ -1,4 +1,4 @@
-### Argo CD 
+### Розгортання Argo CD на кластері k3d
 
 Create cluster<br>
 `k3d cluster create argo`
